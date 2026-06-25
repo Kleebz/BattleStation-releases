@@ -9,6 +9,12 @@ station to your taskbar for a two-click restore, and skin it however you like.
 > This repository hosts the **installers only**. The source lives in a separate
 > private repository.
 
+## Screenshots
+
+![Battle Station — Synthwave skin](media/synthwave.png)
+
+![Skins, settings, and captured apps](media/skins.png)
+
 ## Install (Windows 10/11)
 
 1. Download the latest **`Battle Station_x.y.z_x64-setup.exe`** from the
